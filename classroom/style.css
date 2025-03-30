@@ -1,0 +1,34 @@
+div{
+  
+  height: 60px;
+  background-color: black;
+  margin: 25px;
+}
+#one{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+#two{
+  height: 100px;
+  width: 100px;
+ background-color: red; 
+}
+#three{
+  height: 100px;
+  width: 100px;
+ background-color: green;
+}
+footer{
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+}
+a{
+  margin-right: 200px;   
+ }
+ #logo{
+  color: brown;
+  text-decoration:24px ;
+  font-size: 25px;
+ }
